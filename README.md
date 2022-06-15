@@ -18,7 +18,7 @@ This app allows user/s to keep track of their exercise routine. Users can detail
 ```    
     npm start
 ```
----
+
 
 ## Contributing
 Contributors, issues, and pull requests are welcome.
